@@ -2,11 +2,15 @@
 ## Available Scripts
 
 In the project directory,open the backend folder,
-install the package has been used and run:
+install the packages has been used and run:
 
 ### `dotnet run`
 
-And back to the project directory
+And back to the project directory, and install the packages with:
+
+### `npm install`
+
+and then run:
 
 ### `npm start`
 
